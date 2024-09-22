@@ -97,7 +97,7 @@ Here are some key visualizations generated during the analysis:
 
 ![image](https://github.com/user-attachments/assets/3b5b6f6c-855f-4a3c-a029-0dba33d99d09)
 ![image](https://github.com/user-attachments/assets/09410fa5-8e77-4ab1-8171-c8b3a7fab3fd)
-![image](https://github.com/user-attachments/assets/621dd470-40b7-416b-8bb3-9cd3500d2c0d)
+![image](https://github.com/user-attachments/assets/9b59a512-afdc-403f-bba0-7ad7f3fe4134)
 ![image](https://github.com/user-attachments/assets/1947c36e-88ed-4242-a1a8-ff1c93983adf)
 
 ---
