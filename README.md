@@ -150,7 +150,7 @@ tesla-sentiment-analysis/
 │   ├── final_sentiment_data.csv     # Final dataset with sentiment analysis
 │
 ├── notebooks/
-│   └── sentiment_analysis.ipynb     # Jupyter notebook with analysis code
+│   └── SocialMediaProject.ipynb     # Jupyter notebook with analysis code
 │
 ├── README.md                        # Project overview (this file)
 └── LICENSE.md                       # License file
